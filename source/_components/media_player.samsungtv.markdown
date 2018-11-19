@@ -96,6 +96,7 @@ Currently known supported models:
 - UE46D7000
 - UE6199UXZG (port must be set to 8001, On/Off, Forward/Backward, Volume control, but no Play button)
 - UE65KS8005 (port must be set to 8001, On/Off, Forward/Backward, Volume are OK, but no Play button)
+- EH6030 (Volume  works fine, turn on doesn't work, turn off works, no Forward/Backward/Play/Pause)
 
 Currently tested but not working models:
 
